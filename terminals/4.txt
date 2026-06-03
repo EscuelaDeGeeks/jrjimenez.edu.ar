@@ -1,0 +1,7 @@
+---
+pid: 13820
+cwd: "C:\Code\jrjimenez.edu.ar"
+command: "python \"C:\\Code\\jrjimenez.edu.ar\\scripts\\localize_urls.py\""
+started_at: 2026-06-02T21:11:55.154Z
+running_for_ms: 165013   
+---

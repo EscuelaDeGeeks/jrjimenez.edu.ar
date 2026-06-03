@@ -1,0 +1,7 @@
+---
+pid: 43848
+cwd: "C:\Code\jrjimenez.edu.ar"
+command: "python -u \"C:\\Code\\jrjimenez.edu.ar\\scripts\\fix_static_links.py\" 2>&1 | Select-Object -Last 5"
+started_at: 2026-06-02T21:09:35.851Z
+running_for_ms: 365001   
+---

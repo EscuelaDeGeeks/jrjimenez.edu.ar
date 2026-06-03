@@ -1,0 +1,7 @@
+---
+pid: 47736
+cwd: "C:\Code\jrjimenez.edu.ar"
+command: "python -m http.server 8765 --directory \"C:\\Code\\jrjimenez.edu.ar\""
+started_at: 2026-06-02T21:16:14.468Z
+running_for_ms: 90004    
+---
