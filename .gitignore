@@ -1,2 +1,7 @@
 /mcps
 /agent-tools/
+/terminals/
+wp-content_*
+wp-includes_*
+/wp-admin
+/wp-json
